@@ -1,0 +1,5 @@
+/xml_res
+/__pycache__
+/test
+*.pyc
+*.weights
